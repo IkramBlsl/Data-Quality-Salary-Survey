@@ -9,16 +9,16 @@ In this project, we will explore and analyze the "Ask-A-Manager Salary Survey 20
 
 Objectives:
 
-    Data Exploration: Compute and visualize various statistics of the dataset.
-    Data Interpretation and Analysis: Identify and interpret the features of the dataset and discuss potential learning problems that can be addressed using this data.
-    Data Quality Assessment: Identify data quality issues and propose solutions.
-    Data Cleaning: Implement data cleaning methods to improve the quality of the dataset.
-    Text Data Processing: Transform text variables into numerical values using NLP techniques.
-    Data Transformation for Numeric Algorithms: Convert non-numeric data fields to numeric for algorithms that require numerical input.
-    Data Transformation for Mixed Algorithms: Preprocess the dataset for machine learning algorithms that handle both numeric and categorical data.
-    Manifold Learning: Apply manifold learning algorithms and evaluate the reconstruction error.
-    Dimensionality Reduction: Reduce data dimensions to 2D or 3D and analyze the results.
-    Machine Learning Application: Apply a machine learning algorithm (classification, regression, clustering) and evaluate the results on different data embeddings.
+- Data Exploration: Compute and visualize various statistics of the dataset.
+- Data Interpretation and Analysis: Identify and interpret the features of the dataset and discuss potential learning problems that can be addressed using this data.
+- Data Quality Assessment: Identify data quality issues and propose solutions.
+- Data Cleaning: Implement data cleaning methods to improve the quality of the dataset.
+- Text Data Processing: Transform text variables into numerical values using NLP techniques.
+- Data Transformation for Numeric Algorithms: Convert non-numeric data fields to numeric for algorithms that require numerical input.
+- Data Transformation for Mixed Algorithms: Preprocess the dataset for machine learning algorithms that handle both numeric and categorical data.
+- Manifold Learning: Apply manifold learning algorithms and evaluate the reconstruction error.
+- Dimensionality Reduction: Reduce data dimensions to 2D or 3D and analyze the results.
+- Machine Learning Application: Apply a machine learning algorithm (classification, regression, clustering) and evaluate the results on different data embeddings.
 
 
 ## Requirements
