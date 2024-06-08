@@ -8,6 +8,7 @@
 In this project, we will explore and analyze the "Ask-A-Manager Salary Survey 2021" dataset, which contains salary data collected through an ongoing online survey conducted by Alison Green. The dataset includes responses to demographic, professional, and salary questions from approximately 27,000 records.
 
 Objectives:
+
     Data Exploration: Compute and visualize various statistics of the dataset.
     Data Interpretation and Analysis: Identify and interpret the features of the dataset and discuss potential learning problems that can be addressed using this data.
     Data Quality Assessment: Identify data quality issues and propose solutions.
@@ -23,6 +24,7 @@ Objectives:
 ## Requirements
 
 Tools: Python, Jupyter Notebook
+
 Libraries: seaborn, matplotlib, scikit-learn, numpy , nltk, gensim
 
 
